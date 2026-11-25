@@ -1,0 +1,270 @@
+[
+  {
+    "part": "verb",
+    "entries": [["write", "Put an idea into words"], ["compose", "Create a piece of writing"], ["draft", "Write a first version"]],
+    "sampleAssociations": [["write", "compose", 94], ["write", "draft", 88], ["compose", "draft", 85]]
+  },
+  {
+    "part": "adjective",
+    "entries": [
+      ["important", "Having a strong effect or influence"],
+      ["essential", "Absolutely necessary"],
+      ["significant", "Having a meaningful impact"],
+      ["valuable", "Of considerable worth"]
+    ],
+    "sampleAssociations": [
+      ["important", "essential", 92],
+      ["important", "significant", 96],
+      ["important", "valuable", 82],
+      ["essential", "significant", 88],
+      ["essential", "valuable", 76],
+      ["significant", "valuable", 84]
+    ]
+  },
+  {
+    "part": "verb",
+    "entries": [
+      ["help", "Make a task easier"],
+      ["assist", "Give practical help"],
+      ["support", "Give someone what they need"],
+      ["aid", "Offer help or resources"]
+    ],
+    "sampleAssociations": [
+      ["help", "assist", 97],
+      ["help", "support", 87],
+      ["help", "aid", 95],
+      ["assist", "support", 84],
+      ["assist", "aid", 96],
+      ["support", "aid", 89]
+    ]
+  },
+  {
+    "part": "verb",
+    "entries": [
+      ["show", "Make an idea clear"],
+      ["illustrate", "Explain through an example"],
+      ["demonstrate", "Make clear through evidence"],
+      ["reveal", "Bring something to light"]
+    ],
+    "sampleAssociations": [
+      ["show", "illustrate", 89],
+      ["show", "demonstrate", 94],
+      ["show", "reveal", 83],
+      ["illustrate", "demonstrate", 91],
+      ["illustrate", "reveal", 78],
+      ["demonstrate", "reveal", 86]
+    ]
+  },
+  {
+    "part": "noun",
+    "entries": [
+      ["feedback", "A response to someone's work"],
+      ["advice", "Guidance on what to do"],
+      ["commentary", "A series of observations"],
+      ["input", "Ideas offered for consideration"]
+    ],
+    "sampleAssociations": [
+      ["feedback", "advice", 78],
+      ["feedback", "commentary", 81],
+      ["feedback", "input", 88],
+      ["advice", "commentary", 69],
+      ["advice", "input", 84],
+      ["commentary", "input", 76]
+    ]
+  },
+  {
+    "part": "noun",
+    "entries": [
+      ["essay", "A piece of writing on a subject"],
+      ["paper", "A written academic work"],
+      ["composition", "A piece of written work"]
+    ],
+    "sampleAssociations": [
+      ["essay", "paper", 89],
+      ["essay", "composition", 93],
+      ["paper", "composition", 85]
+    ]
+  },
+  {
+    "part": "verb",
+    "entries": [
+      ["improve", "Become better"],
+      ["develop", "Grow or become more advanced"],
+      ["progress", "Move forward"]
+    ],
+    "sampleAssociations": [
+      ["improve", "develop", 80],
+      ["improve", "progress", 88],
+      ["develop", "progress", 84]
+    ]
+  },
+  {
+    "part": "noun",
+    "entries": [
+      ["mistake", "Something done incorrectly"],
+      ["error", "An incorrect action or judgment"],
+      ["oversight", "Something missed unintentionally"]
+    ],
+    "sampleAssociations": [
+      ["mistake", "error", 97],
+      ["mistake", "oversight", 83],
+      ["error", "oversight", 82]
+    ]
+  },
+  {
+    "part": "noun",
+    "entries": [
+      ["car", "A motor vehicle for passengers"],
+      ["automobile", "A passenger motor vehicle"],
+      ["auto", "An informal word for automobile"]
+    ],
+    "sampleAssociations": [
+      ["car", "automobile", 99],
+      ["car", "auto", 98],
+      ["automobile", "auto", 98]
+    ]
+  },
+  {
+    "part": "adjective",
+    "entries": [
+      ["fast", "Moving at high speed"],
+      ["quick", "Taking little time"],
+      ["swift", "Moving quickly and smoothly"]
+    ],
+    "sampleAssociations": [
+      ["fast", "quick", 95],
+      ["fast", "swift", 93],
+      ["quick", "swift", 92]
+    ]
+  },
+  {
+    "part": "verb",
+    "entries": [
+      ["begin", "Take the first step"],
+      ["start", "Set something in motion"],
+      ["commence", "Begin, in a formal register"]
+    ],
+    "sampleAssociations": [
+      ["begin", "start", 98],
+      ["begin", "commence", 96],
+      ["start", "commence", 95]
+    ]
+  },
+  {
+    "part": "noun",
+    "entries": [
+      ["idea", "A thought or suggestion"],
+      ["concept", "An abstract idea"],
+      ["notion", "An idea or impression"]
+    ],
+    "sampleAssociations": [
+      ["idea", "concept", 93],
+      ["idea", "notion", 95],
+      ["concept", "notion", 88]
+    ]
+  },
+  {
+    "part": "verb",
+    "entries": [
+      ["notice", "Become aware of something"],
+      ["observe", "Become aware through attention"],
+      ["recognize", "Identify or acknowledge"]
+    ],
+    "sampleAssociations": [
+      ["notice", "observe", 89],
+      ["notice", "recognize", 85],
+      ["observe", "recognize", 80]
+    ]
+  },
+  {
+    "part": "noun",
+    "entries": [
+      ["chance", "An opening to do something"],
+      ["opportunity", "A favorable circumstance"],
+      ["occasion", "A suitable time"]
+    ],
+    "sampleAssociations": [
+      ["chance", "opportunity", 95],
+      ["chance", "occasion", 79],
+      ["opportunity", "occasion", 82]
+    ]
+  },
+  {
+    "part": "adjective",
+    "entries": [
+      ["different", "Distinct in some way"],
+      ["new", "Previously unconsidered"],
+      ["distinct", "Clearly distinguishable"]
+    ],
+    "sampleAssociations": [
+      ["different", "new", 72],
+      ["different", "distinct", 94],
+      ["new", "distinct", 68]
+    ]
+  },
+  {
+    "part": "noun",
+    "entries": [
+      ["teacher", "Someone who helps others learn"],
+      ["educator", "A person working in education"],
+      ["instructor", "Someone who teaches a subject"]
+    ],
+    "sampleAssociations": [
+      ["teacher", "educator", 96],
+      ["teacher", "instructor", 92],
+      ["educator", "instructor", 90]
+    ]
+  },
+  {
+    "part": "noun",
+    "entries": [
+      ["students", "People engaged in learning"],
+      ["learners", "People acquiring a skill"],
+      ["pupils", "Students taught at a school"]
+    ],
+    "sampleAssociations": [
+      ["students", "learners", 93],
+      ["students", "pupils", 95],
+      ["learners", "pupils", 91]
+    ]
+  },
+  {
+    "part": "noun",
+    "entries": [
+      ["reasoning", "A process of reaching conclusions"],
+      ["thinking", "A process of considering ideas"],
+      ["logic", "A system of inference"]
+    ],
+    "sampleAssociations": [
+      ["reasoning", "thinking", 89],
+      ["reasoning", "logic", 92],
+      ["thinking", "logic", 83]
+    ]
+  },
+  {
+    "part": "noun",
+    "entries": [
+      ["argument", "A position supported by reasons"],
+      ["claim", "A statement put forward"],
+      ["case", "A position supported by evidence"]
+    ],
+    "sampleAssociations": [
+      ["argument", "claim", 83],
+      ["argument", "case", 92],
+      ["claim", "case", 86]
+    ]
+  },
+  {
+    "part": "adjective",
+    "entries": [
+      ["concrete", "Specific and tangible"],
+      ["specific", "Clearly defined"],
+      ["tangible", "Readily understood or perceived"]
+    ],
+    "sampleAssociations": [
+      ["concrete", "specific", 89],
+      ["concrete", "tangible", 95],
+      ["specific", "tangible", 81]
+    ]
+  }
+]
